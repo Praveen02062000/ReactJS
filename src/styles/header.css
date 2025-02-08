@@ -1,0 +1,44 @@
+.mainproduct {
+    width: 90%;
+    background-color: rgb(230, 227, 227);
+    /* height: 90vh; */
+    margin: 1rem auto;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product {
+    width: 10rem;
+    height: 15rem;
+    background-color: rgb(150, 150, 150);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.product img {
+    width: 80px;
+    height: 80px;
+
+}
+
+.product h4 {
+    position: relative;
+    bottom: 1rem;
+}
+
+.product p {
+    position: relative;
+    bottom: 2rem;
+}
+
+.product button {
+    width: 90%;
+    height: 45px;
+}
