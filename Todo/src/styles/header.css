@@ -1,0 +1,19 @@
+.btn-con button {
+    margin: 0px 10px;
+}
+
+.input-con,
+.todo-list {
+    margin-top: 45px;
+
+}
+
+.value-con {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.value-con button {
+    margin-right: 5px;
+}
